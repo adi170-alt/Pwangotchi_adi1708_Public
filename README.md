@@ -66,7 +66,7 @@ Files that I imported:
 # credits:
 Credit to [@cnagy](https://github.com/c-nagy) becouse I copyed his instalation from readme. Sorry
 
-Credit to [@highrup](https://www.reddit.com/user/highrup/) becouse it was his idea
+Credit to [@highrup](https://www.reddit.com/user/highrup/) becouse it was his idea for the "gps, memtemp and clock configuration
 
 Credit to The "Christmas Plugin" becouse I just changed some things from there and just made a birth day plugin of it
 
