@@ -7,12 +7,13 @@ import logging
 import datetime
 import math
 
-
+month = (7)
+day = (3)
 class Christmas(plugins.Plugin):
     __author__ = 'https://github.com/LoganMD'
-    __version__ = '1.3.0'
+    __version__ = '1.3.5'
     __license__ = 'GPL3'
-    __description__ = 'Birth Day Counter for pwnagotchi!'
+    __description__ = 'Birth Day Counter for pwnagotchi'
 
     def on_loaded(self):
         logging.info("Birth Day Counter Plugin loaded.")
@@ -36,7 +37,7 @@ class Christmas(plugins.Plugin):
 
     def on_ui_update(self, ui):
         now = datetime.datetime.now()
-        birthday = datetime.datetime(now.year, 7, 3)
+        birthday = datetime.datetime(now.year, month, day)
         if now > birthday:
             birthday = birthday.replace(year=now.year + 1)
 
@@ -46,9 +47,9 @@ class Christmas(plugins.Plugin):
         hours = difference.seconds // 3600
         minutes = (difference.seconds % 3600) // 60
 
-        if now.month == 7 and now.day == 3:
+        if now.month == {month} and now.day == {day}:
             ui.set('birthday', "Happy bd!")
         elif days == 0:
-            ui.set('christmas', "birthday\n%dH %dM" % (hours, minutes))
+            ui.set('birthday', "(%dH)" % (hours))
         else:
             ui.set('birthday', "(%dD)" % (days))
