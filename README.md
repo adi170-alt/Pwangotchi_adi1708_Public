@@ -28,8 +28,7 @@ Once the above steps are completed, reboot the Pwnagotchi to ensure all changes 
 ----------------
 # Preview:
 
-![nh7c3hsqdlt61](https://user-images.githubusercontent.com/79835819/116106436-62635a80-a6b2-11eb-9a80-f64afd15f642.png)
-
+![ui (2)](https://user-images.githubusercontent.com/79835819/116112465-dfdd9980-a6b7-11eb-8473-7721cea3ee9a.png)
 ----------------
 # Unedited Custum Plugins:
 
