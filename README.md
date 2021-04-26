@@ -39,8 +39,16 @@ Clock plugin: https://github.com/LoganMD/pwnagotchi-clock
 Christmas plugin: https://github.com/LoganMD/pwnagotchi-christmas-countdown
 
 ----------------
-I can add the Brithday plugin that I made, but It is not the best
+# Birthday Plugin
 
+just follow the seteps from th instalation but change
+
+(Upcoming)
+
+Put this in your config file:
+```
+main.plugins.birthday.enabled = true
+```
 ----------------
 This is a public version of my other private pwnagotchi repository
 Files that I imported:
