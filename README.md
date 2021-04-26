@@ -50,5 +50,7 @@ Files that I imported:
 ----------------
 # credits:
 Credit to [@cnagy](https://github.com/c-nagy) becouse I copyed his instalation from readme. Sorry
+
 Credit to [@highrup](https://www.reddit.com/user/highrup/) becouse it was his idea
+
 And also credit for the peaple who made those plugins links are in the preview tab
