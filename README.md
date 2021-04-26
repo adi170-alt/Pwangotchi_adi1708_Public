@@ -12,6 +12,7 @@ Preview:
 ----------------
 Unedited Custum Plugins:
 https://github.com/c-nagy/pwnagotchi-display-password-plugin
+
 https://github.com/LoganMD/pwnagotchi-clock
 
 ----------------
