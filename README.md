@@ -23,9 +23,8 @@ You can find the plugins in here:
 ```
 You can just simply replace those files, but just make sure that u have pwanotchi version v1.5.5
 
+---------------
 Once the above steps are completed, reboot the Pwnagotchi to ensure all changes are applied.
-
-Credit to [@cnagy](https://github.com/c-nagy) becouse I copyed his instalation from readme. Sorry
 
 ----------------
 # Preview:
@@ -48,3 +47,8 @@ I can add the Brithday plugin that I made, but It is not the best
 This is a public version of my other private pwnagotchi repository
 Files that I imported:
 * plugins
+----------------
+# credits:
+Credit to [@cnagy](https://github.com/c-nagy) becouse I copyed his instalation from readme. Sorry
+Credit to [@highrup](https://www.reddit.com/user/highrup/) becouse it was his idea
+And also credit for the peaple who made those plugins links are in the preview tab
