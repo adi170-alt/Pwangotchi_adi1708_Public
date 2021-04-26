@@ -11,4 +11,4 @@ Preview:
 ----------------
 This is a public version of my other private pwnagotchi repository
 Files that I imported:
-* plugins *
+* plugins
