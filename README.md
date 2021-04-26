@@ -25,7 +25,6 @@ You can just simply replace those files, but just make sure that u have pwanotch
 
 ---------------
 Once the above steps are completed, reboot the Pwnagotchi to ensure all changes are applied.
-
 ----------------
 # Preview:
 
