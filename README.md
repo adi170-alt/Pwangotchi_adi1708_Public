@@ -16,7 +16,7 @@ main.plugins.clock.enabled = true
 ```
 Once the above steps are completed, reboot the Pwnagotchi to ensure all changes are applied.
 
-Credit to @cnagy becouse I copyed his instalation from readme. Sorry
+Credit to [@cnagy](https://github.com/c-nagy) becouse I copyed his instalation from readme. Sorry
 
 ----------------
 # Preview:
