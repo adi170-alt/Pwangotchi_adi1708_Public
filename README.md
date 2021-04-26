@@ -50,6 +50,8 @@ day = (3)
 ```
 I expect that you already know what numbers you have to change
 
+(put the plugin into you plugins folder)
+
 At last just Simply put this in your config file:
 ```
 main.plugins.birthday.enabled = true
