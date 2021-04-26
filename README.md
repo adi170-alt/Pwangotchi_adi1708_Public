@@ -28,9 +28,11 @@ Credit to [@cnagy](https://github.com/c-nagy) becouse I copyed his instalation f
 ----------------
 # Unedited Custum Plugins:
 
-https://github.com/c-nagy/pwnagotchi-display-password-plugin
+Wpa sec Pasword viewer plugin: https://github.com/c-nagy/pwnagotchi-display-password-plugin
 
-https://github.com/LoganMD/pwnagotchi-clock
+Clock plugin: https://github.com/LoganMD/pwnagotchi-clock
+
+Christmas plugin: https://github.com/LoganMD/pwnagotchi-christmas-countdown
 
 ----------------
 I can add the Brithday plugin that I made, but It is not the best
