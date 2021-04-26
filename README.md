@@ -31,6 +31,9 @@ https://github.com/c-nagy/pwnagotchi-display-password-plugin
 https://github.com/LoganMD/pwnagotchi-clock
 
 ----------------
+I can add the Brithday plugin that I made, but It is not the best
+
+----------------
 This is a public version of my other private pwnagotchi repository
 Files that I imported:
 * plugins
