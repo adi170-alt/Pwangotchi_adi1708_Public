@@ -11,6 +11,8 @@ This is a public version of my other private pwnagotchi repository
 ```
 main.plugins.display-password.enabled = true
 main.plugins.display-password.orientation = "horizontal"
+
+main.plugins.clock.enabled = true
 ```
 Once the above steps are completed, reboot the Pwnagotchi to ensure all changes are applied.
 
