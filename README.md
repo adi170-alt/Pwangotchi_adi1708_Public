@@ -16,6 +16,13 @@ main.plugins.display-password.orientation = "horizontal"
 
 main.plugins.clock.enabled = true
 ```
+After that U want to edit the gps config and the memtemp config
+You can find the plugins in here:
+```
+/usr/local/lib/python3.7/dist-packages/pwnagotchi/plugins/default/
+```
+You can just simply replace those files, but just make sure that u have pwanotchi version v1.5.5
+
 Once the above steps are completed, reboot the Pwnagotchi to ensure all changes are applied.
 
 Credit to [@cnagy](https://github.com/c-nagy) becouse I copyed his instalation from readme. Sorry
