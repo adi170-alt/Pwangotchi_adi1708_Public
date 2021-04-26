@@ -53,4 +53,4 @@ Credit to [@cnagy](https://github.com/c-nagy) becouse I copyed his instalation f
 
 Credit to [@highrup](https://www.reddit.com/user/highrup/) becouse it was his idea
 
-And also credit for the peaple who made those plugins links are in the preview tab
+And also credit for the peaple who made those plugins links are in the Unedited Custum Plugins tab
