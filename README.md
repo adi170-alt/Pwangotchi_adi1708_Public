@@ -48,7 +48,7 @@ Just simply go to birthday.py that you downloaded and chacge these numbers:
 month = (7)
 day = (3)
 ```
-I expect that you already know what numbers you have to change
+I expect that you already know what numbers you have to change, And after that you can save your file
 
 (put the plugin into you plugins folder)
 
