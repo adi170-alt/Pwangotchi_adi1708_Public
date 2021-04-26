@@ -29,6 +29,7 @@ Once the above steps are completed, reboot the Pwnagotchi to ensure all changes 
 # Preview:
 
 ![ui (2)](https://user-images.githubusercontent.com/79835819/116112465-dfdd9980-a6b7-11eb-8473-7721cea3ee9a.png)
+![WhatsApp Image 2021-04-26 at 20 44 59](https://user-images.githubusercontent.com/79835819/116134662-7322c900-a6d0-11eb-9b27-3e66207a03b0.jpeg)
 ----------------
 # Unedited Custum Plugins:
 
