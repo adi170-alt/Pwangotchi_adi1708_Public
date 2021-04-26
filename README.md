@@ -41,14 +41,21 @@ Christmas plugin: https://github.com/LoganMD/pwnagotchi-christmas-countdown
 ----------------
 # Birthday Plugin
 
-just follow the seteps from th instalation but change
+just follow the seteps from th instalation but change the date:
 
-(Upcoming)
+Just simply go to birthday.py that you downloaded and chacge these numbers:
+```
+month = (7)
+day = (3)
+```
+I expect that you already know what numbers you have to change
 
-Put this in your config file:
+At last just Simply put this in your config file:
 ```
 main.plugins.birthday.enabled = true
 ```
+And Done!, Now you can reboot your pwnagotchi and see how much days are left till your brith day!
+
 ----------------
 This is a public version of my other private pwnagotchi repository
 Files that I imported:
@@ -58,5 +65,7 @@ Files that I imported:
 Credit to [@cnagy](https://github.com/c-nagy) becouse I copyed his instalation from readme. Sorry
 
 Credit to [@highrup](https://www.reddit.com/user/highrup/) becouse it was his idea
+
+Credit to The "Christmas Plugin" becouse I just changed some things from there and just made a birth day plugin of it
 
 And also credit for the peaple who made those plugins links are in the Unedited Custum Plugins tab
