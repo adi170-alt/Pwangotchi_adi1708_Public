@@ -1,6 +1,8 @@
 # Pwnagotchi Plugins!
 WARNING: This only works with waveshare v2 or comletly without a screen, It maybe works on other ones but idk
+
 This is a public version of my other private pwnagotchi repository
+
 ---------------
 # Installation
 
