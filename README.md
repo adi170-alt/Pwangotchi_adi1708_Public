@@ -26,20 +26,6 @@ You can just simply replace those files, but just make sure that u have pwanotch
 ---------------
 Once the above steps are completed, reboot the Pwnagotchi to ensure all changes are applied.
 ----------------
-# Preview:
-
-![ui (2)](https://user-images.githubusercontent.com/79835819/116112465-dfdd9980-a6b7-11eb-8473-7721cea3ee9a.png)
-![WhatsApp Image 2021-04-26 at 20 44 59](https://user-images.githubusercontent.com/79835819/116134662-7322c900-a6d0-11eb-9b27-3e66207a03b0.jpeg)
-----------------
-# Unedited Custum Plugins:
-
-Wpa sec Pasword viewer plugin: https://github.com/c-nagy/pwnagotchi-display-password-plugin
-
-Clock plugin: https://github.com/LoganMD/pwnagotchi-clock
-
-Christmas plugin: https://github.com/LoganMD/pwnagotchi-christmas-countdown
-
-----------------
 # Birthday Plugin
 
 just follow the seteps from th instalation but change the date:
@@ -58,6 +44,20 @@ At last just Simply put this in your config file:
 main.plugins.birthday.enabled = true
 ```
 And Done!, Now you can reboot your pwnagotchi and see how much days are left till your brith day!
+
+----------------
+# Preview:
+
+![ui (2)](https://user-images.githubusercontent.com/79835819/116112465-dfdd9980-a6b7-11eb-8473-7721cea3ee9a.png)
+![WhatsApp Image 2021-04-26 at 20 44 59](https://user-images.githubusercontent.com/79835819/116134662-7322c900-a6d0-11eb-9b27-3e66207a03b0.jpeg)
+----------------
+# Unedited Custum Plugins:
+
+Wpa sec Pasword viewer plugin: https://github.com/c-nagy/pwnagotchi-display-password-plugin
+
+Clock plugin: https://github.com/LoganMD/pwnagotchi-clock
+
+Christmas plugin: https://github.com/LoganMD/pwnagotchi-christmas-countdown
 
 ----------------
 This is a public version of my other private pwnagotchi repository
