@@ -9,6 +9,10 @@ import math
 
 month = (7)
 day = (3)
+
+pos1 = (160)
+pos2 = (95)
+
 class Christmas(plugins.Plugin):
     __author__ = 'https://github.com/LoganMD'
     __version__ = '1.3.5'
@@ -30,7 +34,7 @@ class Christmas(plugins.Plugin):
                 "Birth Day Counter Plugin: memtemp is enabled")
                 
         if ui.is_waveshare_v2():
-            pos = (160, 95) if memenable else (160, 95)
+            pos = ({pos1}, {pos2}) if memenable else ({pos1}, {pos2})
             ui.add_element('birthday', LabeledValue(color=BLACK, label='', value='birthday\n',
                                                      position=pos,
                                                      label_font=fonts.Small, text_font=fonts.Small))
