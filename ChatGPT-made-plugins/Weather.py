@@ -18,8 +18,8 @@ class WeatherForecast(plugins.Plugin):
     def on_ui_setup(self, ui):
         # add a LabeledValue element to the UI with the given label and value
         # the position and font can also be specified
-        ui.add_element('weather_forecast', components.LabeledValue(color=view.BLACK, label='Weather Forecast:', value='',
-                                                                   position=(0, 50), label_font=fonts.Small, text_font=fonts.Small))
+        ui.add_element('weather_forecast', components.LabeledValue(color=view.BLACK, label='', value='',
+                                                                   position=(120, 80), label_font=fonts.Small, text_font=fonts.Small))
 
     def on_ui_update(self, ui):
         location = "Enter your location here"
