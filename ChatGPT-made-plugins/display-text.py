@@ -6,7 +6,7 @@ import pwnagotchi.plugins as plugins
 import pwnagotchi
 
 class MyPlugin(plugins.Plugin):
-    __author__ = 'Your Name'
+    __author__ = 'adi1708 made by chatGPT'
     __version__ = '1.0.0'
     __license__ = 'GPL3'
     __description__ = 'A plugin that displays text on the waveshare144lcd screen'
