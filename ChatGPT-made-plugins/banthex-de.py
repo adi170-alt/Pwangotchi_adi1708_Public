@@ -9,10 +9,10 @@ from json.decoder import JSONDecodeError
 
 
 class Banthex(plugins.Plugin):
-    __author__ = 'Adrian'
-    __version__ = '3.0.0'
+    __author__ = 'adi1708'
+    __version__ = '1.5.0'
     __license__ = 'GPL3'
-    __description__ = 'This plugin automatically uploads handshakes to https://banthex.de'
+    __description__ = 'This plugin automatically uploads handshakes to https://banthex.de/wpa/'
 
     def __init__(self):
         self.ready = False
