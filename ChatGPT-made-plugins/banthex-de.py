@@ -46,7 +46,7 @@ class Banthex(plugins.Plugin):
 
     def _download_from_banthex(self, output, timeout=30):
         """
-        Downloads the results from banthex and safes them to output
+        Downloads the results from banthex and saves them to output
         Output-Format: bssid, station_mac, ssid, password
         """
         api_url = self.options['api_url']
