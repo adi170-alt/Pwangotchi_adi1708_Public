@@ -7,6 +7,7 @@ from pwnagotchi.utils import StatusFile, remove_whitelisted
 from pwnagotchi import plugins
 from json.decoder import JSONDecodeError
 
+
 class Banthex(plugins.Plugin):
     __author__ = 'Your Name'
     __version__ = '1.0.0'
@@ -45,7 +46,7 @@ class Banthex(plugins.Plugin):
 
     def _download_from_banthex(self, output, timeout=30):
         """
-        Downloads the results from banthex and safes them to output
+        Downloads the results from banthex and saves them to output
         Output-Format: bssid, station_mac, ssid, password
         """
         api_url = self.options['api_url']
@@ -64,4 +65,6 @@ class Banthex(plugins.Plugin):
             raise os_e
 
 
-    def
+    def on_loaded(self):
+        """
+        Gets called when the plugin gets
